@@ -1,0 +1,8 @@
+com\href\biz\dto\CinemasDTO.class
+com\href\biz\dto\ScreenDTO.class
+com\href\biz\endpoint\ShowCaptureEndpoint.class
+com\href\biz\dto\ShowDTO.class
+com\href\biz\dto\FacilityDTO.class
+com\href\biz\filter\CorsFilter.class
+com\href\biz\dto\FilmDTO.class
+com\href\biz\endpoint\CinemasEndpoint.class
